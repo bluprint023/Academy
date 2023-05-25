@@ -1,2 +1,4 @@
 # Academy
-Started training usinf Git and Github. This is tracking my progress
+Started training using Git and Github. This is tracking my progress
+
+I hope all goes well
